@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Checkmarx/manifest-parser/internal/versionspec"
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/versionspec"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // MavenPomParser implements parsing of Maven POM files

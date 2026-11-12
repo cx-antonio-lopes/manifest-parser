@@ -248,7 +248,7 @@ Expected pattern for a new parser: fixture file under `test/resources/` or `inte
 
 ## Deployment
 
-N/A — this is a Go library consumed via `go get github.com/Checkmarx/manifest-parser`. It is not deployed as a service. The CLI (`cmd/`) is a local testing convenience, not a production artifact.
+N/A — this is a Go library consumed via `go get github.com/cx-antonio-lopes/manifest-parser`. It is not deployed as a service. The CLI (`cmd/`) is a local testing convenience, not a production artifact.
 
 ## Performance Considerations
 

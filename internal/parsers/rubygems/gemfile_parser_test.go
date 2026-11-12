@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // TestGemfileParser_BasicGem tests parsing a simple gem declaration with version

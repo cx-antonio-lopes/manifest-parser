@@ -29,7 +29,7 @@ This parser extracts software dependencies from project manifest files and provi
 ### Installation
 
 ```bash
-go get github.com/Checkmarx/manifest-parser
+go get github.com/cx-antonio-lopes/manifest-parser
 ```
 
 ### Usage
@@ -39,7 +39,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Checkmarx/manifest-parser/pkg/parser"
+    "github.com/cx-antonio-lopes/manifest-parser/pkg/parser"
 )
 
 func main() {

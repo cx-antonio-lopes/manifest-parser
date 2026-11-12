@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Checkmarx/manifest-parser/internal/testdata"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/testdata"
 
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 func TestMavenPomParser_Parse(t *testing.T) {

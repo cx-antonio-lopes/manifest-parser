@@ -3,7 +3,7 @@ package testdata
 import (
 	"testing"
 
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // CompareLocations is a helper to assert Location equality in tests

@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Checkmarx/manifest-parser/internal/versionspec"
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/versionspec"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // Full package.json structure to capture all dependency types
