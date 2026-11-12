@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Checkmarx/manifest-parser/internal/versionspec"
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/versionspec"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // PypiParser implements parsing of requirements.txt and related Python dependency files.

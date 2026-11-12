@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Checkmarx/manifest-parser/pkg/parser"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser"
 )
 
 func main() {

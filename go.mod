@@ -1,4 +1,4 @@
-module github.com/Checkmarx/manifest-parser
+module github.com/cx-antonio-lopes/manifest-parser
 
 go 1.23.0
 

@@ -1,22 +1,22 @@
 package parser
 
 import (
-	"github.com/Checkmarx/manifest-parser/internal/parsers/bower"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/carthage"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/cocoapods"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/composer"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/dart"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/dotnet"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/golang"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/gradle"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/maven"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/npm"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/poetry"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/pypi"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/rubygems"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/sbt"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/setuptools"
-	"github.com/Checkmarx/manifest-parser/internal/parsers/swiftpm"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/bower"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/carthage"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/cocoapods"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/composer"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/dart"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/dotnet"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/golang"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/gradle"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/maven"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/npm"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/poetry"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/pypi"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/rubygems"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/sbt"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/setuptools"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/parsers/swiftpm"
 )
 
 // ParsersFactory returns the parser for manifest, or nil when there is none.

@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Checkmarx/manifest-parser/internal/versionspec"
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/internal/versionspec"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // DotnetDirectoryPackagesPropsParser implements parsing of Directory.Packages.props files

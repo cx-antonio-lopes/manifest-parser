@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Checkmarx/manifest-parser/pkg/parser/models"
+	"github.com/cx-antonio-lopes/manifest-parser/pkg/parser/models"
 )
 
 // VersionCatalogParser implements parsing of Gradle version catalogs (libs.versions.toml)
